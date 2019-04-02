@@ -1,3 +1,9 @@
+# -*- coding: utf-8 -*-
+"""
+Created on MARCH 29 2019
+2019华为软件精英挑战赛——初赛训练地图
+@author: JZE
+"""
 import logging
 import sys
 import pandas as pd
